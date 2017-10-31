@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article List Component should render correctly 1`] = `
+<div>
+  <div>
+    <div />
+    <div>
+      Invalid Date
+    </div>
+    <div>
+      <a
+        href="https://twitter.com/acdlite"
+      >
+        Andrew
+         
+        Clark
+      </a>
+    </div>
+    <div />
+  </div>
+  <div>
+    <div />
+    <div>
+      Invalid Date
+    </div>
+    <div>
+      <a
+        href="https://twitter.com/acdlite"
+      >
+        Andrew
+         
+        Clark
+      </a>
+    </div>
+    <div />
+  </div>
+</div>
+`;
